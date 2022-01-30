@@ -1,0 +1,30 @@
+body{
+    background-image: url('https://media.istockphoto.com/photos/sun-and-cloud-background-with-a-pastel-colored-picture-id1160134499?k=20&m=1160134499&s=170667a&w=0&h=ENyOS0_HZSESiL2aAGASikvIlioTWduyca23GOvbryI=');
+    background-size: cover;
+}
+
+#label{
+    font-size:24px ;
+}
+
+#confidence{
+    font-size: 25px;
+}
+
+#sketch_name{
+    font-size: 25px;
+    color: crimson;
+    font-weight:bold;
+}
+
+#score{
+    float:left;
+    font-size: 24px;
+    margin-left: 40px;
+}
+
+#timer{
+    float:right;
+    font-size: 24px;
+    margin-right: 40px;
+}
